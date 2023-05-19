@@ -1,4 +1,4 @@
-module github.com/cbehopkins/permutation
+module github.com/leodido/permutation
 
 go 1.14
 
